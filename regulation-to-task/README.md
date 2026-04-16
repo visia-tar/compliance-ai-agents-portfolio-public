@@ -12,11 +12,11 @@ between a legal clause and a technical ticket.
 **Key Architectural Features:**
 * **Structured Decomposition:** Translates dense legal prose into clear "Definition of Done" criteria for developers.
 * **JSON Schema Enforcement:** Generates outputs ready for direct API integration with project management tools
-* like Jira, GitHub Issues, or ADO.
+  like Jira, GitHub Issues, or ADO.
 * **Traceability Mapping:** Automatically attaches the specific regulatory citation
-* to every technical task to simplify future audits.
+  to every technical task to simplify future audits.
 * **Developer-Centric Focus:** Reduces friction for engineering teams
-* by providing them with clear technical requirements rather than legal documents.
+  by providing them with clear technical requirements rather than legal documents.
 
 ### **Logic Workflow**
 1.  **Ingestion:** Raw text or specific regulatory articles are provided to the agent.
