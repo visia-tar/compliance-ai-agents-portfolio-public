@@ -7,23 +7,24 @@ every AI project.
 ---
 
 ## Project structure
+
 ```
 EU-AIA-Risk-Classifier/
-├── classifier/
-│   ├── __init__.py
-│   ├── agent.py          # core agent logic
-│   ├── prompts.py        # AIA-grounded system prompts
-│   └── report.py         # report generator
-├── tests/
-│   ├── test_agent.py
-│   └── fixtures/         # sample product docs for testing
-│       ├── high_risk.txt
-│       ├── minimal_risk.txt
-│       └── ambiguous.txt
-├── reports/              # folder with output - JSON - files
-├── main.py               # CLI entrypoint
-├── requirements.txt
-└── .env
+|-- classifier/
+|   |-- __init__.py
+|   |-- agent.py          # core agent logic
+|   |-- prompts.py        # AIA-grounded system prompts
+|   |-- report.py         # report generator
+|-- tests/
+|   |-- test_agent.py
+|   |-- fixtures/         # sample product docs for testing
+|       |-- high_risk.txt
+|       |-- minimal_risk.txt
+|       |-- ambiguous.txt
+|-- reports/              # folder with output - JSON - files
+|-- main.py               # CLI entrypoint
+|-- requirements.txt
+|-- .env
 ```
 
 ---
