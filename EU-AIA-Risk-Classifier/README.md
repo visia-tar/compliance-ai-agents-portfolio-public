@@ -7,6 +7,7 @@ every AI project.
 ---
 
 ## Project structure
+```
 EU-AIA-Risk-Classifier/
 ├── classifier/
 │   ├── __init__.py
@@ -23,6 +24,7 @@ EU-AIA-Risk-Classifier/
 ├── main.py               # CLI entrypoint
 ├── requirements.txt
 └── .env
+```
 
 ---
 
