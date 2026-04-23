@@ -202,8 +202,11 @@ decisions made on the basis of this tool's output.
 ---
 
 ## License
-This project is currently unlicensed while in early development.
-Contact visia-tar for usage permission
 
+Copyright (c) 2025 visia-tar. All rights reserved.
+
+This repository is shared for review purposes only. 
+
+Please reach out if you'd like to discuss collaboration or usage.
 ---
 
